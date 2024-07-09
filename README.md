@@ -23,4 +23,6 @@ The system is designed to be modular and scalable, with a clear separation of co
 - **Responsive Design**: Ensure the application works seamlessly on various devices.
 
 ## Demo Video
+Click the link to watch the video!
+
 [![Watch the video](https://img.youtube.com/vi/Gtf-1RVuJ-A/0.jpg)](https://www.youtube.com/watch?v=Gtf-1RVuJ-A)
